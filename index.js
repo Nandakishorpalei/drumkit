@@ -120,6 +120,7 @@ audio13.play();
 
  default:
  alert("wrong input");
+      break;
    }
 
   }
