@@ -81,8 +81,8 @@ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ
 }
 @media (max-width:1028px){
   .drum{
-    height:200px;
-    width:200px;
+    height:300px;
+    width:300px;
     margin: 40px;
 
   }
