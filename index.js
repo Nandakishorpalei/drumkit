@@ -7,7 +7,7 @@ for(i=0 ; i< number;i++ ){
  makesound(buttonInnerHtml);
  recentbutton(buttonInnerHtml);
 });
-
+}
 // key detection
 document.addEventListener("keypress",function(event){
   makesound(event.key);
@@ -15,7 +15,7 @@ document.addEventListener("keypress",function(event){
 })
 
 
-}
+
 
 function makesound(key){
   switch(key){
